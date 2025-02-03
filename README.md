@@ -1,2 +1,4 @@
 # PSD-PSRO_PPO
-template implementation of policy-space-diversity PSRO algorithm with PPO agent
+This repository provides a template implementation of **Policy-Space-Diversity-PSRO** algorithm with **PPO** algorithm as the best response solver. The original PSD-PSRO algorithm (available at [https://github.com](https://github.com/nigelyaoj/policy-space-diversity-psro)[/nig](https://github.com/nigelyaoj/policy-space-diversity-psro)[ely](https://github.com/nigelyaoj/policy-space-diversity-psro)[aoj/](https://github.com/nigelyaoj/policy-space-diversity-psro)[poli](https://github.com/nigelyaoj/policy-space-diversity-psro)[cy-s](https://github.com/nigelyaoj/policy-space-diversity-psro)[pace-](https://github.com/nigelyaoj/policy-space-diversity-psro)[diver](https://github.com/nigelyaoj/policy-space-diversity-psro)[sity-](https://github.com/nigelyaoj/policy-space-diversity-psro)[psro](https://github.com/nigelyaoj/policy-space-diversity-psro)) utilizes DQN for playing poker.
+
+Note that this is just a template. As no specific environment has been integrated, the code is currently non - functional and cannot be executed.
